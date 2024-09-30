@@ -6,8 +6,13 @@ const ProductList = ({ addToCart, removeFromCart, cart }) => {
   const products = [
     { id: 1, name: 'Product 1', description: 'Pre-Owned Apple iPhone 11 - Carrier Unlocked - 64GB Black (Good)', price: 100, image: require ('../assets/product1.jfif') },
     { id: 2, name: 'Product 2', description: 'Pre-Owned Apple iPhone 11 - Carrier Unlocked - 64GB Black (Good)', price: 200, image: require ('../assets/product2.jfif') },
-    { id: 2, name: 'Product 3', description: 'Pre-Owned Apple iPhone 11 - Carrier Unlocked - 64GB Black (Good)', price: 200, image: require ('../assets/product3.jfif') },
-   
+    { id: 3, name: 'Product 3', description: 'Pre-Owned Apple iPhone 11 - Carrier Unlocked - 64GB Black (Good)', price: 200, image: require ('../assets/product3.jfif') },
+    { id: 1, name: 'Product 1', description: 'Pre-Owned Apple iPhone 11 - Carrier Unlocked - 64GB Black (Good)', price: 100, image: require ('../assets/product1.jfif') },
+    { id: 2, name: 'Product 2', description: 'Pre-Owned Apple iPhone 11 - Carrier Unlocked - 64GB Black (Good)', price: 200, image: require ('../assets/product2.jfif') },
+    { id: 3, name: 'Product 3', description: 'Pre-Owned Apple iPhone 11 - Carrier Unlocked - 64GB Black (Good)', price: 200, image: require ('../assets/product3.jfif') },
+    { id: 1, name: 'Product 1', description: 'Pre-Owned Apple iPhone 11 - Carrier Unlocked - 64GB Black (Good)', price: 100, image: require ('../assets/product1.jfif') },
+    { id: 2, name: 'Product 2', description: 'Pre-Owned Apple iPhone 11 - Carrier Unlocked - 64GB Black (Good)', price: 200, image: require ('../assets/product2.jfif') },
+    { id: 3, name: 'Product 3', description: 'Pre-Owned Apple iPhone 11 - Carrier Unlocked - 64GB Black (Good)', price: 200, image: require ('../assets/product3.jfif') },  
 
   ];
 

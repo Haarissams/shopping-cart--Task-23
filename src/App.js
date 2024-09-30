@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import ProductList from './components/ProductList';
 import Cart from './components/Cart';
-
+import '../src/App.css'
 const App = () => {
   const [cart, setCart] = useState([]);
 
